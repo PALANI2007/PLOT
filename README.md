@@ -46,4 +46,4 @@ The program generates a simple line graph.
 
 ## 👤 Author
 
-- Your Name
+- Palanivel M
